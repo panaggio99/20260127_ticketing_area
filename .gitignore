@@ -12,6 +12,7 @@ __pycache__/
 .idea/
 .vscode/
 *.iml
+.ipynb_checkpoints/
 
 # Логи и временные файлы
 *.log
